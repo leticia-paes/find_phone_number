@@ -1,0 +1,3 @@
+[EN] In this puzzle, serveral folders and subfolders, each one containing a bunch of files, hide a telephone number formated ###-###-####. This short code uses Python os module and regular expressions to iterate through each file, open it, and search for the telephone number, solving the puzzle.
+
+[POR] Neste puzzle, várias pastas e subpastas, cada uma contendo um grande número de arquivos, escondia um número de telefone no formato ###-###-####. Este pequeno código usa o módulo Python os e expressões RegEx para iterar por cada arquivo, abri-lo, e procurar pelo número de telefone, solucionando o puzzle.
